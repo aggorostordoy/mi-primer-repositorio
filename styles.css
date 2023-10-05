@@ -1,0 +1,7 @@
+#menu {
+    display:flex;
+    flex-direction: table-column;
+    width: 10 px;
+    height: 70 px;
+    background-color: orangered;
+}

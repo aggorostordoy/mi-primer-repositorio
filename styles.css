@@ -4,11 +4,12 @@ section {
 }
 
 #menu {
+    align-items: center;
     padding-left: 15px;
     display:flex;
     flex-direction: column;
     width: 15vw;
     height: 70vh;
     background-color: orangered;
-    border-radius: 12%;
+    border-radius: 7%;
 }

@@ -6,8 +6,8 @@ section {
 #menu {
     display:flex;
     flex-direction: column;
-    width: 10 px;
-    height: 70 px;
+    width: 10px;
+    height: 70px;
     background-color: orangered;
     
 }

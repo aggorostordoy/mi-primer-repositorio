@@ -4,6 +4,7 @@ section {
 }
 
 #menu {
+    padding-top: 15%;
     align-items: center;
     padding-left: 15px;
     display:flex;

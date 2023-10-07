@@ -4,10 +4,11 @@ section {
 }
 
 #menu {
+    padding-left: 15px;
     display:flex;
     flex-direction: column;
-    width: 10px;
-    height: 70px;
+    width: 15vw;
+    height: 70vh;
     background-color: orangered;
     
 }

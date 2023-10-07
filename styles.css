@@ -1,7 +1,13 @@
+section {
+    width: auto;
+    height: auto;
+}
+
 #menu {
     display:flex;
-    flex-direction: table-column;
+    flex-direction: column;
     width: 10 px;
     height: 70 px;
     background-color: orangered;
+    
 }
